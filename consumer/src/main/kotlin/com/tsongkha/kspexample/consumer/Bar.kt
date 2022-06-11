@@ -1,4 +1,4 @@
-import com.tsongkha.kspexample.annotation.RequiresVersion
+import com.kspexample.annotation.RequiresVersion
 
 class Bar {
     @RequiresVersion("1.2.0")

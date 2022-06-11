@@ -1,4 +1,4 @@
-package com.tsongkha.kspexample.processor
+package com.kspexample.processor
 
 import com.google.auto.service.AutoService
 import com.google.devtools.ksp.processing.SymbolProcessor

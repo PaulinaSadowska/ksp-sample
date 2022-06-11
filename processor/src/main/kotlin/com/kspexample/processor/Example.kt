@@ -1,4 +1,4 @@
-package com.tsongkha.kspexample.processor
+package com.kspexample.processor
 
 @Retention(AnnotationRetention.RUNTIME)
 @Target(AnnotationTarget.FUNCTION, AnnotationTarget.CLASS)
